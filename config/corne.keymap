@@ -48,8 +48,8 @@
 
             bindings = <
 &kp DEL           &kp N1        &kp N2          &kp UP       &kp PAGE_UP    &kp LEFT_WIN    &kp SLASH     &kp N7        &kp N8        &kp N9        &kp MINUS  &kp ESC
-&kp LEFT_SHIFT    &bt BT_SEL 0  &kp LEFT_ARROW  &kp DOWN     &kp RIGHT      &bt BT_SEL 4    &kp ASTERISK  &kp NUMBER_4  &kp NUMBER_5  &kp N6        &kp PLUS   &kp RIGHT_SHIFT
-&mt LEFT_ALT TAB  &kp K_CUT     &kp K_COPY      &kp K_PASTE  &kp PAGE_DOWN  &trans          &kp N0        &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp DOT    &trans
+&kp LEFT_SHIFT    &bt BT_SEL 0  &kp LEFT_ARROW  &kp DOWN     &kp RIGHT      &kp HOME        &kp ASTERISK  &kp NUMBER_4  &kp NUMBER_5  &kp N6        &kp PLUS   &kp RIGHT_SHIFT
+&mt LEFT_ALT TAB  &kp K_CUT     &kp K_COPY      &kp K_PASTE  &kp PAGE_DOWN  &kp END         &kp N0        &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp DOT    &trans
                                                 &tog 0       &kp BACKSPACE  &kp ENTER       &kp SPACE     &kp RCTRL     &tog 2
             >;
         };
